@@ -27,3 +27,20 @@ const abc = (name, callback) => {
     fsa.readFileSync("filename.txt");
     const print = fsa.readFileSync("filename.txt","UTF-8");
     console.log(print);
+
+//ASynchronous 
+    const a=require("fs");
+    a.writeFile("a.txt","I am the original data",(err)=>{
+    console.log("file is created");
+    console.log(err);
+});
+
+//append data
+a.appendFile("a.txt",": hello i am added",(err)=>{
+    console.log("task completed");
+});
+
+//Read file data
+a.readFile("a.txt","UTF-8",(err,data)=>{
+    console.log(data);
+});
