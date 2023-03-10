@@ -62,3 +62,37 @@ console.log(path.propertyname);
 
 //delimiter : returns the delimiter specifies for the platform
 console.log(path.delimiter);
+
+// Timer
+var myInt = setInterval(function(){
+    console.log("Hello");
+},500);
+
+//http module
+//program to create server
+const http=require("http");
+const server=http.createServer((req,res)=>{
+    console.log(req.url);
+    res.write("Start Writing ");//it can run multiple times
+    res.end("hello i am response"); // it restricted to run only one time
+    // res.end("hello i am response");
+});
+server.listen(1000,()=>{
+    console.log("listening to port number 1000")
+});
+
+//Handle Http Request(routing)
+var http = require("http");
+var server = http.createServer(function(req,res){
+    if(req.url=='/'){
+        res.end("Welcome to Index Page");
+    }
+    else if(req.url=="/emp"){
+        res.end("Welcome to Employees page");
+    } 
+    else{
+        res.end("Invalid request of the user");
+    }
+});
+server.listen(1000);
+console.log("Server is running at port 1000")
