@@ -1,0 +1,1 @@
+This is a writeable stream fileCreated with the help of createwritestream
