@@ -1,0 +1,11 @@
+const url=require('url');
+const urladdress="http://localhost:3000/index.html?name=sikha&age=20";
+const parseurl = url.parse(urladdress,true);
+console.log(parseurl.host);
+console.log(parseurl.hostname);
+console.log(parseurl.href);
+console.log(parseurl.path);
+console.log(parseurl.pathname);
+console.log(parseurl.port);
+console.log(parseurl.query);
+console.log(parseurl.query.name);
