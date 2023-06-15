@@ -32,10 +32,22 @@ Created This using :
 
 - JavaScript
 
-# PROJECT 4
+ PROJECT 4
 
  CLOCK USING HTML , CSS and JAVASCRIPT
  [scrnli_6_13_2023_12-18-06 PM.webm](https://github.com/sikha22/Web-Development-Project/assets/84958102/84a205a4-d510-4e2c-bb59-bbaa0dcca74e)
+
+ PROJECT 5
+
+Weather App in javaScript
+
+Created This using :
+
+- HTML
+- CSS 
+
+![scrnli_6_15_2023_2-31-11 PM](https://github.com/sikha22/Web-Development-Project/assets/84958102/8bbc695b-0df9-4818-8225-64ddb849f27a)
+- JavaScript
 
 
 
