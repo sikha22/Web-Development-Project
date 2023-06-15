@@ -20,7 +20,7 @@ Created using:
 - JavaScript
 
 
-  ![scrnli_1_24_2023_1-49-38 PM.webm](https://user-images.githubusercontent.com/84958102/214244055-89f347f2-ac82-4459-9621-ad40fc0178d0.webm)
+  ![scrnli_1_24_2023_1-49-38 PM](https://user-images.githubusercontent.com/84958102/214244055-89f347f2-ac82-4459-9621-ad40fc0178d0.webm)
 
 
 
