@@ -48,7 +48,8 @@ Created This using :
 - CSS
 - javaScript
  
- [scrnli_6_13_2023_12-18-06 PM.webm](https://github.com/sikha22/Web-Development-Project/assets/84958102/84a205a4-d510-4e2c-bb59-bbaa0dcca74e)
+![scrnli_6_13_2023_12-18-06 PM](https://github.com/sikha22/Web-Development-Project/assets/84958102/c7f7518b-7544-452a-bb33-608c6f6a3de5)
+
 
  PROJECT 5
 
