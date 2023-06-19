@@ -64,6 +64,19 @@ Created This using :
 ![scrnli_6_15_2023_2-31-11 PM](https://github.com/sikha22/Web-Development-Project/assets/84958102/8bbc695b-0df9-4818-8225-64ddb849f27a)
 
 
+ PROJECT 6
+
+Mini Calender 
+
+Created This using :
+
+- HTML
+- CSS
+- javaScript
+
+  ![MiniCalender Pic](https://github.com/sikha22/Web-Development-Project/assets/84958102/92b27c51-e14c-4013-a7bc-2793cf7cbce5)
+
+
 
 
 
