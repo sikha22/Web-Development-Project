@@ -77,6 +77,19 @@ Created This using :
   ![MiniCalender Pic](https://github.com/sikha22/Web-Development-Project/assets/84958102/92b27c51-e14c-4013-a7bc-2793cf7cbce5)
 
 
+ PROJECT 7
+
+Music Player 
+
+Created This using :
+
+- HTML
+- CSS
+- javaScript
+
+  ![scrnli_6_19_2023_5-17-47 PM](https://github.com/sikha22/Web-Development-Project/assets/84958102/a58b2fe0-41d6-4d0f-8ee8-3c3598722f59)
+
+
 
 
 
