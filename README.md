@@ -90,6 +90,17 @@ Created This using :
   ![scrnli_6_19_2023_5-17-47 PM](https://github.com/sikha22/Web-Development-Project/assets/84958102/a58b2fe0-41d6-4d0f-8ee8-3c3598722f59)
 
 
+ PROJECT 8
+
+ Full Screen Scrolling
+
+Created This using :
+
+- HTML
+- CSS
+- javaScript
+
+[scrnli_6_20_2023_2-55-46 PM.webm](https://github.com/sikha22/Web-Development-Project/assets/84958102/2176a73e-4374-4301-8778-cb5e553b140e)
 
 
 
